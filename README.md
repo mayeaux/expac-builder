@@ -1,2 +1,3 @@
-# expac-builder
-ExpidusOS Package Builder
+# ExpidusOS Package Builder
+
+A package repository builder in bash
